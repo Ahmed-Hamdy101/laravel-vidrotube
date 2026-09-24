@@ -38,3 +38,5 @@ yarn-error.log
 /opencode.json
 /opencode.jsonc
 .editorconfig
+vidrotube.code-workspace
+phpstan.neon
