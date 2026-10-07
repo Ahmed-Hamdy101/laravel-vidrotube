@@ -40,3 +40,4 @@ yarn-error.log
 .editorconfig
 vidrotube.code-workspace
 phpstan.neon
+.github/_php_workspace.lnk
